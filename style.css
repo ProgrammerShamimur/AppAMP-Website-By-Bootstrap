@@ -302,6 +302,7 @@ img{
 }
 .author-info:hover img{
     box-shadow: 2.5px 4.33px 30px 0 rgb(64 87 191 / 62%) !important;
+    transform: scale(1.1) !important;
 }
 .user-details {
     text-align: left;
